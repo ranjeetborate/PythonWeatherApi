@@ -1,0 +1,9 @@
+The following steps must be followed if you don't have flask installed on you system:
+
+sudo apt install virtualenv (This is optional. Ignore, if you have it already)
+
+sudo apt install python-pip (This is optional. Ignore, if you have it already)
+
+pip install flask
+
+
